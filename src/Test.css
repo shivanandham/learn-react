@@ -1,0 +1,22 @@
+.Test {
+  text-align: center;
+}
+
+.button {
+  background-color: green;
+  color: white;
+  font: inherit;
+  border: 1px solid #ccc;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding: 5px 10px;
+  cursor: pointer;
+  margin-bottom: 16px;
+  outline: none;
+}
+  .button:hover {
+    background-color: lightgreen;
+    color: black;
+  }
